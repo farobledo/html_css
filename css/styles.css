@@ -1,0 +1,81 @@
+body{
+    background-image: url("../img/tridimensional1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: #07daed
+}
+
+nav{
+    background-color: #01f5f1;
+    border-radius: 0px;
+    padding: 0px;
+    margin: 0px;
+    box-shadow: 0px 0px 10px rgb(245, 1, 1);
+}
+.table{
+    background-color: #050505;
+    border-radius: 0px;
+    padding: 0px;
+    margin: 0px;
+    box-shadow: 0px 0px 10px rgb(239, 3, 3);
+
+}
+h1{
+    color: #00f5f0;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    margin: 0px;
+    padding: 0px;
+
+}
+.color{
+    color: #00f5f0;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+}
+.color2{
+    color: #2df500;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+
+}
+label{
+    color: #0004f5;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+    box-shadow: 0px 0px 10px rgb(239, 35, 3);
+}
+form{
+    
+    border-radius: 0px;
+    padding: 0px;
+    margin: 0px;
+    box-shadow: 0px 0px 10px rgb(3, 58, 239);
+
+}
+h1{
+    color: #00f5f0;
+    text-align: center;
+   
+    margin: 29px;
+}
+div{
+    color: #00f5f0;
+  
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+}
